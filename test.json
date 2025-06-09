@@ -1,4 +1,5 @@
-{
+[
+  {
     "displayName": "Red-Bull Ring",
     "transform": {
       "x": -9,
@@ -8,8 +9,8 @@
     },
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Red_Bull_Ring%2C_April_18%2C_2018_SkySat.jpg",
     "referenceLapUrl": "https://cdn.jsdelivr.net/gh/qwertysd-cmd/Portfolio@main/file_E.%20Cavalli.json"
-  }
-{
+  },
+  {
     "displayName": "Hockenheim",
     "transform": {
       "x": -9,
@@ -20,4 +21,4 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Hockenheimring%2C_April_29%2C_2018_SkySat_%28crop%29.jpg",
     "referenceLapUrl": "https://cdn.jsdelivr.net/gh/qwertysd-cmd/Portfolio@main/file_E.%20Cavalli.json"
   }
-
+]
