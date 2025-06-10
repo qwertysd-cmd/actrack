@@ -20,5 +20,16 @@
     },
     "imageUrl": "https://raw.githubusercontent.com/qwertysd-cmd/actrack/main/watkins/watkins.jpeg",
     "referenceLapUrl": "https://raw.githubusercontent.com/qwertysd-cmd/actrack/main/watkins/eduardo_watkins.json"
+  },
+  {
+    "displayName": "Pau-Ville",
+    "transform": {
+      "x": -139,
+      "y": 98,
+      "scale": 0.803,
+      "rotation": -0.022
+    },
+    "imageUrl": "https://raw.githubusercontent.com/qwertysd-cmd/actrack/main/pau-ville/pau-ville.jpeg",
+    "referenceLapUrl": "https://raw.githubusercontent.com/qwertysd-cmd/actrack/main/pau-ville/eduardo_pau-ville.json"
   }
 ]
