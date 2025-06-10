@@ -11,14 +11,14 @@
     "referenceLapUrl": "https://cdn.jsdelivr.net/gh/qwertysd-cmd/Portfolio@main/file_E.%20Cavalli.json"
   },
   {
-    "displayName": "Hockenheim",
+    "displayName": "Watkins Glen",
     "transform": {
       "x": -9,
       "y": 11,
       "scale": 0.8,
       "rotation": 0.02
     },
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Hockenheimring%2C_April_29%2C_2018_SkySat_%28crop%29.jpg",
-    "referenceLapUrl": "https://cdn.jsdelivr.net/gh/qwertysd-cmd/Portfolio@main/file_E.%20Cavalli.json"
+    "imageUrl": "https://raw.githubusercontent.com/qwertysd-cmd/actrack/main/watkins/watkins.jpeg",
+    "referenceLapUrl": "https://raw.githubusercontent.com/qwertysd-cmd/actrack/main/watkins/eduardo_watkins.json"
   }
 ]
