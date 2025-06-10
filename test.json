@@ -13,10 +13,10 @@
   {
     "displayName": "Watkins Glen",
     "transform": {
-      "x": -9,
-      "y": 11,
-      "scale": 0.8,
-      "rotation": 0.02
+      "x": -139,
+      "y": 98,
+      "scale": 0.803,
+      "rotation": -0.022
     },
     "imageUrl": "https://raw.githubusercontent.com/qwertysd-cmd/actrack/main/watkins/watkins.jpeg",
     "referenceLapUrl": "https://raw.githubusercontent.com/qwertysd-cmd/actrack/main/watkins/eduardo_watkins.json"
